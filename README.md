@@ -17,6 +17,11 @@ Building intelligent systems, developer tools, scalable SaaS platforms, and AI-p
 </div>
 
 
+<img src="https://github-readme-stats-opal-tau-83.vercel.app/api?username=Nathishwar-prog&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats-opal-tau-83.vercel.app/api/top-langs/?username=Nathishwar-prog&layout=compact&theme=radical" />
+
+
 
 ---
 </div>
