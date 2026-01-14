@@ -25,6 +25,7 @@ Building intelligent systems, developer tools, scalable SaaS platforms, and AI-p
 ---
 </div>
 
+
 <div align="center">
 
 
@@ -89,5 +90,26 @@ Building intelligent systems, developer tools, scalable SaaS platforms, and AI-p
 <h2 align="center">Expertise Languages</h2>
 
 <p align="center">
+  <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
   <img src="https://github-readme-stats-opal-tau-83.vercel.app/api/top-langs/?username=Nathishwar-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" />
 </p>
+
+<h2 align="center">🏆 Achievements & Mementos</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Nathishwar-prog?style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/Nathishwar-prog?style=for-the-badge&color=facc15" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributor-Active-green?style=for-the-badge" />
+</p>
+
+>
+
+>
+
