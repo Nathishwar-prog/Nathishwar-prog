@@ -1,4 +1,5 @@
 ## Hi, I’m Nathishwar 👋
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-%23ea4aaa)](https://github.com/sponsors/Nathishwar-prog)
 
 I’m an open-source developer building developer tools and an AI-powered learning platform.
 I focus on clean architecture, scalable systems, and practical solutions.
