@@ -28,7 +28,7 @@ Building intelligent systems, developer tools, scalable SaaS platforms, and AI-p
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=Nathishwar-prog&theme=radical&hide_border=true" height="180" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Nathishwar-prog&theme=radical&hide_border=true" height="180" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats-opal-tau-83.vercel.app/api?username=Nathishwar-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&icon_color=00F7FF" />
 
 
